@@ -1,2 +1,2 @@
 # WordleTurkceHack
-Wordle turkcede yardimci olmak icin programlanmistir
+It created for helping when playing Wordlee Turkish. For other languages very soon.
